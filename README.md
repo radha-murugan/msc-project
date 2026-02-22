@@ -17,7 +17,7 @@ msc-project/
 │   ├── 02_model_training.ipynb
 │   ├── 03_regular_and_tta_evaluation.ipynb
 │   ├── 04_gradcam_visualization.ipynb
-│   ├── 05_gradcam.ipynb
+│   ├── 05_additional_analysis.ipynb
 │   └── 06_model_training_cnn.ipynb
 ├── data/
 │   ├── Training/
@@ -45,9 +45,9 @@ Run the notebooks **in the below order** — each one saves outputs that the nex
 
 ## Saved Models
 
-Trained model weights are **not included** in this repository due to size
+Trained model weights are **not included** in this repository due to size limits.
+To obtain the model: run the notebooks in order, or contact the author.
 
-Please run the notebooks in order and it will create a folder and save the weights and training.
 
 ## License
 
