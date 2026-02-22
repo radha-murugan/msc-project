@@ -5,9 +5,7 @@ The project builds an end-to-end deep learning pipeline for automated brain tumo
 
 ## Dataset
 
-The dataset is **not included** in this repository due to size. Download it from Kaggle before running the notebooks:
-
-**[Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)**
+The dataset is **not included** in this repository due to size. Download it from Kaggle before running the notebooks: **[Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)**
 
 After downloading, unzip and place the folders so your directory looks like this:
 
