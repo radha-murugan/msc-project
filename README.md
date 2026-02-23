@@ -1,14 +1,13 @@
 # Brain Tumor Survival Prediction Using Explainable AI Techniques
 
 This repository contains the full source code for the MSc Computing Project. 
-The project builds an end-to-end deep learning pipeline for automated brain tumour classification from MRI scans, using transfer learning (ResNet50) and three explainable AI techniques — Test-Time Augmentation, Grad-CAM, and Monte Carlo Dropout.
+The project builds an deep learning pipeline for automated brain tumour classification from MRI scans, using transfer learning (ResNet50) and three AI techniques: Test-Time Augmentation, Grad-CAM and Monte Carlo Dropout.
 
 ## Dataset
 
 The dataset is **not included** in this repository due to size. Download it from Kaggle before running the notebooks: **[Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)**
 
-After downloading, unzip and place the folders so your directory looks like this:
-
+After downloading, unzip and place the folders as shown below so your directory looks like this:
 
 ```
 msc-project/
@@ -35,7 +34,7 @@ msc-project/
 
 ## Running the Notebooks
 
-Run the notebooks **in the below order** — each one saves outputs that the next one depends on.
+Run the notebooks in the below order. Each one saves outputs that the next one depends on.
 
 1. 01_data_preparation.ipynb
 2. 02_model_training.ipynb and 06_model_training_cnn (can run in parllel)
@@ -45,8 +44,8 @@ Run the notebooks **in the below order** — each one saves outputs that the nex
 
 ## Saved Models
 
-Trained model weights are **not included** in this repository due to size limits.
-To obtain the model: run the notebooks in order, or contact the author.
+Trained model weights are **not included** in this repository due to size limitations.
+To obtain the model: Run the notebooks in order or contact the author.
 
 
 ## License
