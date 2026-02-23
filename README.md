@@ -1,7 +1,7 @@
 # Brain Tumor Survival Prediction Using Explainable AI Techniques
 
 This repository contains the full source code for the MSc Computing Project. 
-The project builds an deep learning pipeline for automated brain tumour classification from MRI scans, using transfer learning (ResNet50) and three AI techniques: Test-Time Augmentation, Grad-CAM and Monte Carlo Dropout.
+The project builds an deep learning pipeline for automated brain tumour classification from MRI scans, using ResNet50 transfer learning and three AI techniques including Test-Time Augmentation, Grad-CAM and Monte Carlo Dropout.
 
 ## Dataset
 
